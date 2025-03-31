@@ -1,2 +1,7 @@
-# senior research
- senior research project
+# Senior Research Project
+
+## Background:
+Machine Learning (ML) is a subset of artificial intelligence which enables computers to find patterns and make predictions without explicit programming. ML techniques such as supervised, unsupervised, and reinforcement learning can be applied to the cryptocurrency (crypto) market to forecast price movements. Crypto, a decentralized digital currency relies on cryptography and blockchain technology for security and transparency. Due to the volatility of the crypto market, making price predictions can be difficult, but ML can make use of historical data, social media sentiment, and trading volume to make educated price predictions. Previous studies have had success with using ML to predict crypto market trends; however, they mainly focus on daily price movements instead of real-time trading opportunities. The objective of this study is to fully exploit real-time blockchain data and other indicators in a continuous adaptive manner, to improve ML’s price prediction accuracy for real-time trading opportunities. 
+
+## Objective:
+Upon completing this research, I expect that through the use of ML, price prediction accuracy of crypto will be improved as opposed to traditional forecasting methods. If my model can process real-time blockchain transactions, and market trends to continuously generate predictions, then this could provide traders with dynamic and up to date indicators. This study may also reveal which factors such as volume or social media sentiment are the most successful in predicting price movement in the crypto market. In addition, by back testing my model on historical data I can determine if my strategy can be used to automate trades.  
